@@ -1,0 +1,19 @@
+{
+  "name": "rico-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.226.1",
+    "dark-sky": "^1.1.2",
+    "express": "^4.15.2",
+    "google-home-notifier": "file:google-home-notifier",
+    "netatmo": "^2.2.1",
+    "socket.io": "^2.1.0"
+  }
+}
